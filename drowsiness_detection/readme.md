@@ -18,8 +18,11 @@ Download the dataset: Driver Drowsiness Dataset
 The CNN model architecture consists of the following layers:
 
 Convolutional layer; 32 nodes, kernel size 3
+
 Convolutional layer; 32 nodes, kernel size 3
+
 Convolutional layer; 64 nodes, kernel size 3
+
 Fully connected layer; 128 nodes
 
 # Project Prerequisites
