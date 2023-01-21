@@ -38,3 +38,6 @@ Pygame – pip install pygame (to play alarm sound).
 
 # Input/Output
 
+![WhatsApp Image 2023-01-21 at 4 33 42 PM](https://user-images.githubusercontent.com/73791285/213864181-51632847-e33c-4d2d-9f9b-1f8c6f9c9a6d.jpeg)
+![WhatsApp Image 2023-01-21 at 4 34 52 PM](https://user-images.githubusercontent.com/73791285/213864187-3324c1f2-0342-4947-98d0-c30c1ae750fc.jpeg)
+![WhatsApp Image 2023-01-21 at 4 35 58 PM](https://user-images.githubusercontent.com/73791285/213864173-21209897-03d9-48af-86ca-38efca485996.jpeg)
